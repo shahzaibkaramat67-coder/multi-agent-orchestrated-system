@@ -39,3 +39,4 @@ OpenAI
 requests
 ollama
 langchain_ollama
+FastAPI
